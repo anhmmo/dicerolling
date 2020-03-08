@@ -1,0 +1,10 @@
+.App {
+    display: flex;
+    position: relative;
+    max-width: 68vw;
+    width: 100%;
+    height: 84vh;
+    background-color: rgb(255, 255, 255);
+    margin: 8vh 16vw;
+  
+}

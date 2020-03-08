@@ -1,0 +1,9 @@
+#root {
+    background-image: url(https://pixabay.com/get/54e6d0454a50a414ea9d8578c22a3678133fc3e45659724f742e7cdd90/dices-over-newspaper-2656028.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /*filter: blur(8px);
+    -webkit-filter: blur(8px);*/
+}

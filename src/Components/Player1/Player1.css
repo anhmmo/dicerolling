@@ -1,0 +1,50 @@
+.player{
+    width: 50%;
+    background-color: #ffffff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.player h2 {
+    margin: 22% 0 8% 0;
+    font-size: 4rem;
+    text-transform: uppercase;
+    letter-spacing: .4rem;
+    font-weight: 300;
+    display: block;
+}
+
+.player h2::after {
+    content: "\2022";
+    font-size: 47px;
+    color: #EB4D4D;
+}
+
+#totalScore {
+   
+    font-size: 8rem;
+    color: red;
+    font-weight: 100;
+  
+}
+
+.currentScore {
+
+    background-color: #EB4D4D;
+    width: 24%;
+    margin-left: 38%;
+    margin-top: 15%;
+}
+
+.currentScore p{
+    font-size: 2rem;
+    margin: 1rem;
+    
+}
+
+.currentScore p:last-child{
+    color: white;
+    font-size: 3rem;
+    font-weight: 100;
+}
